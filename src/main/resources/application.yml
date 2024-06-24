@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+#spring:
+#  profiles:
+#    default: local
+#무료버전은 active profiles 옵션이 없어서 default 로 테스트
+---
+spring:
+  profiles:
+    active: local
+---
+spring:
+  profiles:
+    active: prod
