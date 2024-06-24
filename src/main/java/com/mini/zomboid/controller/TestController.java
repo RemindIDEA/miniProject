@@ -1,4 +1,4 @@
-package com.mini.test.controller;
+package com.mini.zomboid.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

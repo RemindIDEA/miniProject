@@ -1,0 +1,4 @@
+# 파일이 존재하는 경로
+base-path: "C:\\testFolder"
+# 백업 폴더 경로
+backup-path: "C:\\backup\\"
